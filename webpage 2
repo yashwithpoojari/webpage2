@@ -2,7 +2,9 @@
  <head>
   <title>creating an web page</title>
  </head>
- <body>
+ <body bgcolor="orange">
+ <img src =2.jpg>
+   <p> welcome to my web page</p>
  
  </body>
 </html>
